@@ -1,1 +1,2 @@
 # FundaRedNeurPythonKeras
+curso platzi
